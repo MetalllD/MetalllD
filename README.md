@@ -1,7 +1,9 @@
  <img align="right" alt="GIF" src="https://github.com/MetalllD/MetalllD/blob/master/Gifs/ME.gif" />
 
-<br/>
-<br/>
+<br />
+<br />
+
+---
 
 ### Connect with me 👋 :
 
@@ -13,6 +15,6 @@
 
 
 [instagram]: https://www.instagram.com/mitalkamani
-[linkedin]: www.linkedin.com/in/mitalkamani
+[linkedin]: https://www.linkedin.com/in/mitalkamani
 [Dribbble]: https://dribbble.com/mitalkamani
 [Behance]: https://www.behance.net/mitalkamani
